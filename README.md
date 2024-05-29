@@ -22,3 +22,6 @@ Daftar Berkas:
 - [SampleODSFile_10000Rows.ods](ods%20-%20calc/SampleODSFile_10000Rows.ods) - 916KB
 - [SampleODSFile_50000Rows.ods](ods%20-%20calc/SampleODSFile_50000Rows.ods) - 3,7MB
 - [SampleODSFiles.zip](ods%20-%20calc/SampleODSFiles.zip) - Semua berkas di atas
+
+
+> Sumber Asal Dokumen: [sample-videos.com](https://sample-videos.com/download-sample-doc-file.php)
